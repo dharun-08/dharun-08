@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dharun-08
-- 👀 I’m interested in  programming
-- 🌱 I’m currently learning WebDevelopment
-- 💞️ I’m looking to collaborate on Web Developement
+- 👋 Hi, I’m Dharunkumar
+- 👀 I’m interested in programming and developing stuffs
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on Web Development and App Development
 - 📫 How to reach me ...email:dharun08kumar@gmail.com
 
 <!---
