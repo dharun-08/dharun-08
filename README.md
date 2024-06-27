@@ -1,6 +1,9 @@
+
+![image](https://github.com/dharun-08/dharun-08/assets/91736058/127b6344-06e6-4aea-8511-2f24d9466644)
+
 - 👋 Hi, I’m Dharunkumar
 - 👀 I’m interested in programming and Technology
-- 🌱 I’m currently learning Flutter
+- 🌱 Flutter Developer | Web Developer | Problem Solving
 - 💞️ I’m looking to collaborate on Web Development and App Development
 - 📫 How to reach me ...email:dharun08kumar@gmail.com
 
