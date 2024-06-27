@@ -1,5 +1,4 @@
-
-![image](https://github.com/dharun-08/dharun-08/assets/91736058/127b6344-06e6-4aea-8511-2f24d9466644)
+![image](https://github.com/dharun-08/dharun-08/assets/91736058/811fa49a-b185-48da-a2f0-beb78d805891)
 
 - 👋 Hi, I’m Dharunkumar
 - 👀 I’m interested in programming and Technology
