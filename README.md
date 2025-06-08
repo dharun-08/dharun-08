@@ -76,7 +76,7 @@
 
 <p align="center">
   <a href="https://github.com/dharun-08/smartnote">
-    <img src="https://images.ctfassets.net/lzny33ho1g45/1k41w1jXD8yR2UpqsAATdf/155942b0a628546c207243fd31ec436d/image1.png?w=1400&fm=avif" />
+    <img src="https://private-user-images.githubusercontent.com/91736058/433691609-00f32f30-9a0b-445d-8768-b1952baea0ee.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkzOTkxMjYsIm5iZiI6MTc0OTM5ODgyNiwicGF0aCI6Ii85MTczNjA1OC80MzM2OTE2MDktMDBmMzJmMzAtOWEwYi00NDVkLTg3NjgtYjE5NTJiYWVhMGVlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA4VDE2MDcwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNiNGM4YTYzNDU2ZjgzMzU0YjBiMzE4YWFlZjM5N2MwOTE4NWQ5YTJlOTQ0ZWE0ZjJhMjg4NjI5ZjU2NDA3M2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qgm0nnKoFid4UdJTrY-cui9VbP0YyW2WsknDAJgexDg" />
   </a>
   <a href="https://github.com/dharun-08/outpatient-frontend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharunkumar&repo=portfolio-site&theme=tokyonight" />
