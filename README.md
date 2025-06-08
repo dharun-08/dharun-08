@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C0FF&width=435&lines=Java+%7C+Spring+Boot+%7C+React+Developer;Cloud+Tech+Enthusiast;Clean+Code+%26+Problem+Solving;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C0FF&width=435&lines=Java+%7C+Spring+Boot+%7C+React+Dev;Cloud+Tech+Enthusiast;Clean+Code+%26+Problem+Solving;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -27,10 +27,10 @@
   <a href="https://github.com/dharunkumar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:dharun08kumar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="https://dharun-08.github.io/dharunportfolio/">
     <img src="https://img.shields.io/badge/Portfolio-29B6F6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -40,10 +40,10 @@
 ## 🧑‍💻 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/your_leetcode_username">
+  <a href="https://leetcode.com/u/Dharun08/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/your_gfg_username/profile">
+  <a href="https://www.geeksforgeeks.org/user/dharun08kumar/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
