@@ -74,6 +74,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharun-08&layout=compact&theme=radical" width="48%"/>
 </p>
 
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dharun-08&theme=radical&row=1&no-bg=true&no-frame=true" />
+</p>
+
 
 ---
 
