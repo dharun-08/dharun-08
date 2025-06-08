@@ -76,7 +76,7 @@
 
 <p align="center">
   <a href="https://github.com/dharun-08/smartnote">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharunkumar&repo=notes-app&theme=tokyonight" />
+    <img src="https://images.ctfassets.net/lzny33ho1g45/1k41w1jXD8yR2UpqsAATdf/155942b0a628546c207243fd31ec436d/image1.png?w=1400&fm=avif" />
   </a>
   <a href="https://github.com/dharun-08/outpatient-frontend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharunkumar&repo=portfolio-site&theme=tokyonight" />
