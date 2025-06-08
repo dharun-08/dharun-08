@@ -80,8 +80,9 @@
   </a>
   <p>Outpatient Appointment System</p>
   <a href="https://github.com/dharun-08/outpatient-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharunkumar&repo=portfolio-site&theme=tokyonight" />
+    <img src="https://private-user-images.githubusercontent.com/91736058/447237658-25ba2659-54dc-4d59-b0cd-c4cbf44cf8c8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkzOTk0MzYsIm5iZiI6MTc0OTM5OTEzNiwicGF0aCI6Ii85MTczNjA1OC80NDcyMzc2NTgtMjViYTI2NTktNTRkYy00ZDU5LWIwY2QtYzRjYmY0NGNmOGM4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA4VDE2MTIxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJiMmU2ZGFkZWZhYzU1ZWQwZGJkYWZmOWU4ZjdkMzg2ZGJiOGEyYzg1NTVjYzhmNzU2MmEyZTM1ZmYzYmU3YWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.81bocFU3HcvvTFeELcrUhbFVp9bhrbTBZyW5K3_mMqg" />
   </a>
+  <p>Smart Note Ai</p>
 </p>
 
 ---
