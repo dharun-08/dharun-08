@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 🎓 I'm a B.Tech (IT) graduate from St. Joseph's Institute of Technology  
-💼 Currently working in the backend domain — transitioning to Cloud & Backend  
+💼 Currently working in the backend domain — transitioning to Cloud & AI  
 🌱 Learning Microservices, AWS, and building full-stack projects  
 🛠️ Strong in Java, Spring Boot, MongoDB, and React.js  
 
