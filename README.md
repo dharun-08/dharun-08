@@ -75,10 +75,10 @@
 ## 📌 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/dharunkumar/notes-app">
+  <a href="https://github.com/dharun-08/smartnote">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharunkumar&repo=notes-app&theme=tokyonight" />
   </a>
-  <a href="https://github.com/dharunkumar/portfolio-site">
+  <a href="https://github.com/dharun-08/outpatient-frontend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharunkumar&repo=portfolio-site&theme=tokyonight" />
   </a>
 </p>
